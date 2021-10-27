@@ -1,4 +1,5 @@
 quel magnifique cours!
 Mais c'est du charabia !!
 Voici une nouvelle ligne.
-Pour moi, ceci est la quatri�me ligne.
+Pour moi, ceci est la quatrième ligne.
+J'en ajoute une cinquième depuis GitHub.
