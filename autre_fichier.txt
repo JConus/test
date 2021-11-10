@@ -2,6 +2,6 @@
 Mais c'est du charabia !!
 Voici une nouvelle ligne.
 Pour moi, ceci est la quatrième ligne.
-Et en voici une cinquième !
-J'en ajoute une sixième !
-Voici la septième ligne.
+J'en ajoute une cinquième !
+Voici la sixième ligne.
+Et voici ma septième LIGNE !!!
