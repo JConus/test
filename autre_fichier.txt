@@ -1,5 +1,4 @@
 ﻿Voici un fichier tout neuf !
 Mais c'est du charabia !!
 Voici ma nouvelle troisième ligne.
-Voilà, j'ajoute une ligne supplémentaire à ce fichier.
 Voici une ligne supplémentaire.
