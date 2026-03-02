@@ -3,3 +3,4 @@ Mais c'est du charabia !!
 Voici ma nouvelle troisième ligne.
 Voici une ligne supplémentaire.
 Ce fichier compte désormais 5 lignes.
+Voici une sixième ligne.
